@@ -27,6 +27,19 @@
     <Categories>Mobile</Categories>
   </Addin>
   <Addin>
+    <Name>Cake.XCode</Name>
+    <NuGet Id="Cake.XCode">
+      <Filter>/**/Cake.XCode.dll</Filter>
+      <Filter>/**/Cake.XCode.xml</Filter>
+    </NuGet>
+    <Repository>https://github.com/Redth/Cake.XCode</Repository>
+    <Author>Jonathan Dick</Author>
+    <Description>
+      A set of aliases for Cake to help with XCode and CocoaPods.
+    </Description>
+    <Categories>Mac;XCode;CocoaPods</Categories>
+  </Addin>
+  <Addin>
     <Name>Cake.AliaSql</Name>
     <NuGet Id="Cake.AliaSql" />
     <Repository>https://github.com/RichiCoder1/Cake.AliaSql</Repository>
